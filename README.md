@@ -1,4 +1,7 @@
-Lakmal Pinnaduwage Lab 6 - This lab is based on: https://github.com/mjhea0/flaskr-tdd
+**Lab 6**
+
+
+Lakmal Pinnaduwage - This lab is based on: https://github.com/mjhea0/flaskr-tdd
 
 **Group Project Test Cases**
 
